@@ -32,3 +32,12 @@ int main()
     return 0;
 
 }
+
+/*
+Output-
+Bad-1
+Good-2
+hello-2
+hi-1
+
+*/

@@ -42,3 +42,9 @@ int main()
     for(int x:o)
         cout<<x;
 }
+
+/*
+Output-
+
+135792468
+*/
